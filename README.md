@@ -56,8 +56,6 @@ Matplotlib
 
 Scikit-learn
 
-Google Colab / Jupyter Notebook
-
 Steps Performed
 
 Import the dataset.
@@ -112,3 +110,6 @@ Evaluation
 
 The model is evaluated using accuracy, confusion matrix, precision, recall and F1-score.
 
+
+Google Collab Link:
+https://colab.research.google.com/drive/1w7vd-AjqQIopXKL1ohQyAjJChpNQQaA5?usp=sharing
